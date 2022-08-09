@@ -18,8 +18,25 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geron-Python" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+   <img align="center" alt="Geron-C" height="30" width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   <img align="center" alt="Geron-NodeJs" height="30" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+        <img align="center" alt="Geron-Git" height="30" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            <img align="center" alt="Geron-github" height="30" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img align="center" alt="Geron-MySQL" height="30" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+            <i align="center" alt="Geron-MySQL" height="30" width="40" 
+            class="devicon-mysql-plain-wordmark"></i>
+            <img align="center" alt="Geron-Matlab" height="30" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+            <img align="center" alt="Geron-Java" height="30" width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+
 </div>
-  
   ##
  
 <div> 
