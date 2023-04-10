@@ -39,7 +39,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <div> 
   <a href="https://www.linkedin.com/in/geron-mattoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.facebook.com/G.WilhamMattoso/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>  
+  
   ![Snake animation](https://github.com/GeronMattoso/GeronMattoso/blob/output/github-contribution-grid-snake.svg)
  
 </div>
